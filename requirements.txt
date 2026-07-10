@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+httpx
+langgraph 
+langchain
+langchain-openai
+langsmith
+pinecone-client
+pinecone-text
+pydantic
+pydantic-settings
+python-jose
+passlib
+structlog
+mcp
